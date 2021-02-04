@@ -1,0 +1,63 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background:#101727;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.navigation-link {
+    border: 2px solid transparent;
+}
+
+.navigation-link:hover {
+    text-decoration: none;
+    border-bottom: 2px solid #f5ba09;
+    transition: 0.5s ease;
+}
+
+.orange {
+    color:  #f5ba09;
+}
+
+.main-container {
+    min-height: 100vh;
+    padding-top: 5rem;
+}
+
+#about{
+    background: #3A6596;
+    border-radius: 0.5rem;
+}
+
+.darkblue {
+    color:#171f32;
+}
+
+.colors {
+    color: #CCCFD3;
+    color: #FF611D;
+    color: #171f32;
+    color: #101727;
+    color: #ffffff;
+}
+
+.card {
+    border-bottom: 8px solid #f5ba09;
+}
+
+#contact-me {
+    background:  #3A6596; 
+    border-radius: 0.5rem;
+}
+
+.media-link{
+    padding: 1rem;
+    max-width: 15rem;
+    margin-left: 1rem;
+    border: 2px solid #f5ba09;
+    border-radius: 0.5rem;
+}
+
+
