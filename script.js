@@ -1,5 +1,6 @@
 const linkedIn = document.getElementById("linkedIn");
-const gitHub = document.getElementById("gitHub")
+const gitHub = document.getElementById("gitHub");
+
 
 linkedIn.onclick = () => {
     window.location.href = "https://www.linkedin.com/in/brettwinterstrom/";
