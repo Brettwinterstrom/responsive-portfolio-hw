@@ -62,14 +62,9 @@ color: #fff;
 cursor: pointer;
 
 &:hover {
-    color: #01bf71;
+    color: #f5ba09;
     transition: 0.2s ease-in-out
 }
-`
-
-export const SideBtnWrap = styled.div`
-display: flex;
-justify-content: center;
 `
 
 export const SidebarRoute = styled(LinkR)`

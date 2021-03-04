@@ -1,0 +1,31 @@
+#about{
+    background: #3A6596;
+    border-radius: 0.5rem;
+}
+
+.navbar-links li:hover {
+    background-color: #101727;
+    border-bottom: 1px solid #f5ba09;
+    transition: 0.5s ease;
+}
+
+.navigation-link:hover {
+    text-decoration: none;
+    border-bottom: 2px solid #f5ba09;
+    transition: 0.5s ease;
+}
+
+.text-white {
+    color: white;
+}
+
+.orange {
+    color:  #f5ba09;
+}
+
+.pic {
+    margin-top: 5px ;
+    margin-bottom: 5px ;
+    width:400px;
+    height:auto
+}

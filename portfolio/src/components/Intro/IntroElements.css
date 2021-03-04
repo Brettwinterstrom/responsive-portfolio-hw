@@ -1,0 +1,28 @@
+.pic {
+    margin-top: 5px ;
+    margin-bottom: 5px ;
+    width:400px;
+    height:auto
+}
+
+.main-container {
+    min-height: 100vh;
+    padding-top: 5rem;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background:#101727;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.orange {
+    color:  #f5ba09;
+}
+
+.text-white {
+    color: white;
+}
