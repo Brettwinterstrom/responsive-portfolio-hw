@@ -69,13 +69,8 @@ margin-right: -22px;
 `
 
 export const NavItem = styled.li`
-height: 80px;
+height: 100px;
 
-&: hover {
-    background-color: #101727;
-    border-bottom: 5px solid #f5ba09;
-    transition: 0.5s ease;
-}
 `
 
 export const NavLinks = styled(LinkS)`
@@ -86,6 +81,13 @@ text-decoration: none;
 padding: 0 1rem;
 height: 100%;
 cursor: pointer;
+
+&: hover {
+    background-color: #101727;
+    color: #f5ba09;
+    border-bottom: 5px solid #f5ba09;
+    transition: 0.5s ease;
+};
 
 &.active {
     border-bottom: 3px solid #01bf71;

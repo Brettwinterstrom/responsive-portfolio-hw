@@ -1,0 +1,16 @@
+#contact-me {
+    background:  #3A6596; 
+    border-radius: 0.5rem;
+}
+
+.orange {
+    color:  #f5ba09;
+}
+
+.media-link{
+    padding: 1rem;
+    max-width: 15rem;
+    margin-left: 1rem;
+    border: 2px solid #f5ba09;
+    border-radius: 0.5rem;
+}

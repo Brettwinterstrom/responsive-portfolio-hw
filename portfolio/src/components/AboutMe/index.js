@@ -8,7 +8,7 @@ function AboutMe() {
             <div id="about" class="container">
                 <div className="row">
                     <div className="col-md-6 col-sm-12">
-                        <img src={BrettImg2} className="img-fluid rounded mt-3 mb-3 pic" />
+                        <img src={BrettImg2} className="img-fluid rounded mt-3 mb-3" />
                     </div>
                     <div className=" col-md-6 col-sm-12 pl-5 pt-5 pb-5 text-white">
                         <h3> About Me</h3>
@@ -18,7 +18,7 @@ function AboutMe() {
                         interested in learning more about me download my resume and check out my contact links below.
                 </p>
                         <h5><a className="orange navigation-link"
-                            href="https://docs.google.com/document/d/11jL7kgI-NT92gBXKy5nCAYO09yoEag5Shd29t9N0vfU/export?format=pdf">Download
+                            href="https://docs.google.com/document/d/11jL7kgI-NT92gBXKy5nCAYO09yoEag5Shd29t9N0vfU/export?format=pdf" target="_blank">Download
                         my resume</a>
                         </h5>
 
