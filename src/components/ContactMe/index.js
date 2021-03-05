@@ -14,9 +14,9 @@ function ContactMe() {
                         <div className="col-md-3 media-link btn" id="linkedIn">
                             <div className="row">
                                 <div className="col-6 d-flex justify-content-start">
-                                    <h3 className="pt-2 m-0 text-white"><a target="_blank" className="text-white" href="https://www.linkedin.com/in/brettwinterstrom/">LinkedIn</a></h3>
+                                    <h3 className="pt-2  m-0 text-white"><a target="_blank" className="text-white" href="https://www.linkedin.com/in/brettwinterstrom/">LinkedIn</a></h3>
                                 </div>
-                                <FaIcons.FaLinkedin size={50} />
+                                <FaIcons.FaLinkedin className="margin" size={50} />
                                 <div className="col-6 d-flex justify-content-end align-items-center">
                                 </div>
                             </div>
