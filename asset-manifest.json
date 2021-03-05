@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/responsive-portfolio-hw/static/css/main.0dde6724.chunk.css",
+    "main.js": "/responsive-portfolio-hw/static/js/main.0e397695.chunk.js",
+    "main.js.map": "/responsive-portfolio-hw/static/js/main.0e397695.chunk.js.map",
+    "runtime-main.js": "/responsive-portfolio-hw/static/js/runtime-main.93aa0ab0.js",
+    "runtime-main.js.map": "/responsive-portfolio-hw/static/js/runtime-main.93aa0ab0.js.map",
+    "static/css/2.2295ac45.chunk.css": "/responsive-portfolio-hw/static/css/2.2295ac45.chunk.css",
+    "static/js/2.512fa948.chunk.js": "/responsive-portfolio-hw/static/js/2.512fa948.chunk.js",
+    "static/js/2.512fa948.chunk.js.map": "/responsive-portfolio-hw/static/js/2.512fa948.chunk.js.map",
+    "index.html": "/responsive-portfolio-hw/index.html",
+    "static/css/2.2295ac45.chunk.css.map": "/responsive-portfolio-hw/static/css/2.2295ac45.chunk.css.map",
+    "static/css/main.0dde6724.chunk.css.map": "/responsive-portfolio-hw/static/css/main.0dde6724.chunk.css.map",
+    "static/js/2.512fa948.chunk.js.LICENSE.txt": "/responsive-portfolio-hw/static/js/2.512fa948.chunk.js.LICENSE.txt",
+    "static/media/Outdoorsy.34598bd0.png": "/responsive-portfolio-hw/static/media/Outdoorsy.34598bd0.png",
+    "static/media/dayScheduler.40a429fa.png": "/responsive-portfolio-hw/static/media/dayScheduler.40a429fa.png",
+    "static/media/image0 (1).c48d83ae.jpeg": "/responsive-portfolio-hw/static/media/image0 (1).c48d83ae.jpeg",
+    "static/media/image0.839ce712.jpeg": "/responsive-portfolio-hw/static/media/image0.839ce712.jpeg",
+    "static/media/passGenerator.ba258ead.png": "/responsive-portfolio-hw/static/media/passGenerator.ba258ead.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93aa0ab0.js",
+    "static/css/2.2295ac45.chunk.css",
+    "static/js/2.512fa948.chunk.js",
+    "static/css/main.0dde6724.chunk.css",
+    "static/js/main.0e397695.chunk.js"
+  ]
+}
